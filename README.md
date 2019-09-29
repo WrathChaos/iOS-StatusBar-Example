@@ -8,10 +8,10 @@
 
 
 <p align="center">
-  <img alt="iOS StatusBar Example" src="assets/blue.png" />
-  <img alt="iOS StatusBar Example" src="assets/orange.png" />
-  <img alt="iOS StatusBar Example" src="assets/pink.png" />
-  <img alt="iOS StatusBar Example" src="assets/purple.png" />
+  <img alt="iOS StatusBar Example" src="assets/blue.jpg" />
+  <img alt="iOS StatusBar Example" src="assets/orange.jpg" />
+  <img alt="iOS StatusBar Example" src="assets/pink.jpg" />
+  <img alt="iOS StatusBar Example" src="assets/purple.jpg" />
 </p>
 
 <p align="center">
@@ -26,9 +26,10 @@
 Simply clone the project, open the StatusBarExample.xcodeproj on XCode and just smash the RUN button :)
 
 ## Tested on 
- [x] iOS 13 and below
- [x] XCode 11 and below
- [x] Swift 4 and 5
+
+[x] iOS 13 and below
+[x] XCode 11 and below
+[x] Swift 4 and 5
 
 ## Author
 
