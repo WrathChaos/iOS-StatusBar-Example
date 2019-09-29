@@ -1,12 +1,5 @@
 <img alt="iOS StatusBar Example" src="assets/logo.png" width="1050"/>
 
-
-[![Battle Tested ✅](https://img.shields.io/badge/-Battle--Tested%20%E2%9C%85-03666e?style=for-the-badge)](https://github.com/WrathChaos/iOS-StatusBar-Example)
-
-
-[![iOS Status Bar Example](https://img.shields.io/badge/-iOS%20Status%20Bar%20Example-lightgrey?style=for-the-badge)](https://github.com/WrathChaos/iOS-StatusBar-Example)
-
-
 <p align="center">
   <img alt="iOS StatusBar Example" src="assets/blue.jpg" />
   <img alt="iOS StatusBar Example" src="assets/orange.jpg" />
