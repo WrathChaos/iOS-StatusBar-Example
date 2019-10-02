@@ -16,9 +16,16 @@ class ViewController: UIViewController {
             let app = UIApplication.shared
             let statusBarHeight: CGFloat = app.statusBarFrame.size.height
             
-            let statusbarView = UIView(frame: CGRect(x: 0, y: 0, width: UIScreen.main.bounds.size.width, height: statusBarHeight))
+            let statusbarView = UIView()
             statusbarView.backgroundColor = UIColor.red
             view.addSubview(statusbarView)
+          
+            statusbarView.translatesAutoresizingMaskIntoConstraints = false
+            statusbarView.heightAnchor.constraint(equalToConstant: statusBarHeight).isActive = true
+            statusbarView.widthAnchor.constraint(equalTo: view.widthAnchor, multiplier: 1.0).isActive = true
+            statusbarView.topAnchor.constraint(equalTo: view.topAnchor).isActive = true
+            statusbarView.centerXAnchor.constraint(equalTo: view.centerXAnchor).isActive = true
+          
         } else {
             let statusBar = UIApplication.shared.value(forKeyPath: "statusBarWindow.statusBar") as? UIView
             statusBar?.backgroundColor = UIColor.red
