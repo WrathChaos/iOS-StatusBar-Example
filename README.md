@@ -23,7 +23,7 @@ Simply clone the project, open the StatusBarExample.xcodeproj on XCode and just 
 - [x] ~~iOS 13 and below~~
 - [x] ~~XCode 11 and below~~
 - [x] ~~Swift 4 and 5~~
-- [x] ~~Working with both portrait mode and landscape mode (thanks to @ulian-onua)~~
+- [x] ~~Working with both portrait mode and landscape mode~~(thanks to [Ulian Onua](https://github.com/ulian-onua))
 
 ## Author
 
